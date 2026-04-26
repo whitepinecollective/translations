@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'name' => 'Member name',
-    'display_name' => 'Display name',
-    'pronouns' => 'Pronouns',
-    'description' => 'Description',
-    'role' => 'Role',
+    'name' => 'Nombre del miembro',
+    'display_name' => 'Nombre que es mostrado',
+    'pronouns' => 'Pronombres',
+    'description' => 'Descripcion',
+    'role' => 'Rol',
     'color' => 'Color',
-    'created' => 'Member created.',
-    'updated' => 'Member updated.',
-    'deleted' => 'Member deleted.',
-    'archived' => 'Member archived.',
-    'unarchived' => 'Member unarchived.',
-    'is_custom_front' => 'Custom front',
+    'created' => 'Miembro creado.',
+    'updated' => 'Miembro actualizado.',
+    'deleted' => 'Miembro eliminado.',
+    'archived' => 'Miembro archivado.',
+    'unarchived' => 'Miembro desarchivado.',
+    'is_custom_front' => 'Frente personalizable',
     'is_custom_front_description' => 'A named fronting state, not tied to a specific alter.',
 ];

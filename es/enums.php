@@ -2,34 +2,34 @@
 
 return [
     'system_visibility' => [
-        'public' => 'Public',
-        'friends' => 'Friends only',
-        'private' => 'Private',
+        'public' => 'Publico',
+        'friends' => 'Solo amigos',
+        'private' => 'Privado',
     ],
 
     'system_import_status' => [
-        'pending' => 'Pending',
-        'processing' => 'Processing',
-        'completed' => 'Completed',
-        'completed_with_errors' => 'Completed with errors',
-        'failed' => 'Failed',
+        'pending' => 'Pendiente',
+        'processing' => 'Procesando',
+        'completed' => 'Completado',
+        'completed_with_errors' => 'Completado con errores',
+        'failed' => 'Fallido',
     ],
 
     'system_user_role' => [
-        'owner' => 'Owner',
-        'admin' => 'Admin',
-        'partner' => 'Partner',
-        'trusted' => 'Trusted Friend',
-        'read_only' => 'Friend',
+        'owner' => 'Propietario',
+        'admin' => 'Administrador',
+        'partner' => 'Pareja',
+        'trusted' => 'Amigo cercano',
+        'read_only' => 'Amigo',
     ],
 
     'custom_field_type' => [
-        'text' => 'Text',
-        'number' => 'Number',
-        'date' => 'Date',
-        'link' => 'Link',
+        'text' => 'Texto',
+        'number' => 'Numero',
+        'date' => 'Fecha',
+        'link' => 'Enlace',
         'color' => 'Color',
-        'textarea' => 'Text Field',
+        'textarea' => 'Campo de texto',
         'markdown' => 'Markdown',
         'block_editor' => 'Block Editor',
     ],

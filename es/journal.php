@@ -1,12 +1,12 @@
 <?php
 
 return [
-    'title' => 'Title',
-    'content' => 'Content',
-    'private' => 'Private',
-    'shared' => 'Shared',
-    'created' => 'Journal entry created.',
-    'updated' => 'Journal entry updated.',
-    'deleted' => 'Journal entry deleted.',
-    'encrypted_notice' => 'Journal entries are encrypted and can only be read by your system.',
+    'title' => 'Titulo',
+    'content' => 'Contenido',
+    'private' => 'Privado',
+    'shared' => 'Compartido',
+    'created' => 'Entrada del diario creada.',
+    'updated' => 'Entrada del diario actualizada.',
+    'deleted' => 'Entrada del diario eliminada.',
+    'encrypted_notice' => 'Las entradas del diario estan encriptadas y solo pueden ser leidas por tu sistema.',
 ];

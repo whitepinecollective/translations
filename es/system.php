@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'name' => 'System name',
-    'description' => 'Description',
-    'visibility' => 'Visibility',
-    'created' => 'System created.',
-    'updated' => 'System updated.',
-    'deleted' => 'System deleted.',
-    'switch' => 'Switch system',
+    'name' => 'Nombre del sistema',
+    'description' => 'Descripcion',
+    'visibility' => 'Visibilidad',
+    'created' => 'Sistema creado.',
+    'updated' => 'Sistema actualizado.',
+    'deleted' => 'Sistema eliminado.',
+    'switch' => 'Cambiar de sistema',
 ];

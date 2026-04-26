@@ -1,34 +1,34 @@
 <?php
 
 return [
-    'title' => 'Appearance',
-    'theme' => 'Theme',
+    'title' => 'Apariencia',
+    'theme' => 'Tema',
 
     // Theme labels
     'themes' => [
         'light' => [
-            'label' => 'Light',
-            'description' => 'Clean and bright',
+            'label' => 'Claro',
+            'description' => 'Limpio y brillante',
         ],
         'dark' => [
-            'label' => 'Dark',
-            'description' => 'Deep purple darkness',
+            'label' => 'Oscuro',
+            'description' => 'Un morado muy oscuro',
         ],
         'dim' => [
-            'label' => 'Dim',
-            'description' => 'Softer dark tones (WIP)',
+            'label' => 'Grisaseo',
+            'description' => 'Un color oscuro mas suavizado',
         ],
         'paper' => [
-            'label' => 'Paper',
-            'description' => 'Warm parchment feel (WIP)',
+            'label' => 'Beige',
+            'description' => 'Un color crema calido',
         ],
         'system' => [
-            'label' => 'System',
-            'description' => 'Follows your device',
+            'label' => 'Predeterminado',
+            'description' => 'Sigue el tema de tu dispositivo',
         ],
     ],
 
-    'light' => 'Light',
-    'dark' => 'Dark',
-    'system' => 'System',
+    'light' => 'Claro',
+    'dark' => 'Oscuro',
+    'system' => 'Predeterminado',
 ];
