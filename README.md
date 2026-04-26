@@ -26,6 +26,11 @@ Small tip - the English translations are the default ones that are used across t
    - Any notes or questions
 5. We'll review and merge once approved
 
+
+### Tips and Tricks
+
+We use Laravel on the backend, and they have [amazing documentation](https://laravel.com/docs/13.x/localization) on how to handle translations.
+
 ## Languages
 
 | Language | Code | Status | Translator(s) |
