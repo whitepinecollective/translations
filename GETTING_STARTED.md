@@ -50,18 +50,21 @@ A fork is a way to clone the repo to your account so you can modify it.
 1. Go to the main page of the repo: https://github.com/PluralSpace/translations
 2. Click the **"Fork"** button in the top right
 3. This will create a copy of the repo in your GitHub account. You can make changes to this copy without affecting the original until you're ready to submit a PR.
-
+4. After forking, you'll be taken to your copy (it will say "your-username/translations" at the top). This is where you'll do your translation work.
 ---
 
 ## Step 3: Translate!
 
 ### Using Github's Web Editor
-1. Go to your forked repo that you just created (it will be on your profile page)
-2. Press the `.` key on your keyboard. This will open GitHub's web-based code editor.
+1. Go to your forked repo that you just created (it will be on your profile page if you were not redirected)
+2. Press the `.` key on your keyboard in your forked repo. This will open GitHub's web-based code editor.
 3. Copy the `en/` folder and paste it in the same directory. Rename the new folder to the language code you're translating to (e.g., `fr` for French, `es` for Spanish).
 4. Click on a file in your new folder (e.g., `kb.php`) to open it.
 5. Edit the right side of each line to translate the text into your language.
-6. Once you're done, click the green "Commit changes" button at the bottom of the page to save your translation.
+6. Once you're done, it's time to commit the changes! Click on the icon that looks like a line with a branch coming off of it.
+![commit-example.png](images/commit-example.png)
+7. Enter a message, like "Adding French Translations"
+8. Click the green "Commit & Push" button at the bottom of the page to save your translations to your forked repo.
 
 
 ### How to Translate
@@ -245,6 +248,16 @@ No problem! We review everything before it goes live. If there's a typo or somet
 ### "Do you pay translators?"
 
 Not right now, but we credit all translators in the app. Your name appears as someone who made PluralSpace accessible to your community.
+
+### "Can I just edit the files directly in my fork and then make a PR?"
+
+Yes! You can skip the web editor entirely if you prefer:
+1. Fork the repo
+2. Use whatever text editor you like (Notepad, VS Code, etc.) to edit files locally
+3. Upload them to your fork using GitHub's web interface or Git
+4. Open a PR
+
+Pick whatever method is easiest for you!
 
 ---
 

@@ -41,6 +41,7 @@ We use Laravel on the backend, and they have [amazing documentation](https://lar
 ## Resources
 
 - [PluralSpace Website](https://pluralspace.app)
+- [Getting Started Guide](GETTING_STARTED.md)
 
 ## Questions?
 
